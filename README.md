@@ -6,6 +6,9 @@
 
 O **Plaquet.AI** é uma solução baseada em **Visão Computacional** e **Deep Learning** desenvolvida para automatizar a contagem de plaquetas sanguíneas em lâminas microscópicas. Utilizando modelos de detecção de objetos (YOLO), a ferramenta identifica e delimita as plaquetas na imagem, auxiliando no diagnóstico rápido de condições como plaquetopenia e trombocitose.
 
+<img width="1049" height="718" alt="image" src="https://github.com/user-attachments/assets/f124f216-f16a-4c73-ab8f-9f18f392b3f8" />
+
+
 ## Funcionalidades
 
 * **Detecção Automática:** Localização e contagem precisa de plaquetas via modelos YOLO otimizados.
