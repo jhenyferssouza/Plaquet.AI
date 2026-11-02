@@ -4,10 +4,18 @@
 
 ## Visão Geral
 
-O **Plaquet.AI** é uma solução baseada em **Visão Computacional** e **Deep Learning** desenvolvida para automatizar a contagem de plaquetas sanguíneas em lâminas microscópicas. Utilizando modelos de detecção de objetos (YOLO), a ferramenta identifica e delimita as plaquetas na imagem, auxiliando no diagnóstico rápido de condições como plaquetopenia e trombocitose.
+O **Plaquet.AI** é uma solução tecnológica voltada para o diagnóstico hematológico pediátrico, com foco no suporte a crianças com leucemia. Em cenários em que o tempo é um fator determinante para a tomada de decisão médica, o projeto visa proporcionar rapidez e exatidão no processo analítico.
+
+Anualmente, cerca de 280 mil crianças são diagnosticadas com cancro no mundo (dados GLOBOCAN 2020 / OMS). A leucemia altera significativamente a composição sanguínea, exigindo a contagem rigorosa de componentes como hemácias, leucócitos e plaquetas. Em regiões ou laboratórios com recursos limitados ou áreas remotas, o acesso a equipamentos de grande porte e de alto custo torna-se um desafio operacional.
+
+
+Para contornar a margem de erro humano e os atrasos na contagem manual ou no envio de amostras, o Plaquet.AI emprega inteligência artificial para realizar a identificação e a contagem de plaquetas diretamente a partir de imagens de amostras sanguíneas. Esta automação reduz o tempo de resposta e apoia a conduta médica em tratamentos imediatos.
+
+### Diferencial Tecnológico e Financeiro
+
+Enquanto os contadores hematológicos tradicionais de grande porte exigem um investimento inicial elevado (com custos na ordem dos R$ 55.000,00), a proposta do Plaquet.AI baseia-se num modelo acessível. Esta abordagem democratiza o acesso ao diagnóstico preciso em contextos laboratoriais variados.
 
 <img width="1049" height="718" alt="image" src="https://github.com/user-attachments/assets/f124f216-f16a-4c73-ab8f-9f18f392b3f8" />
-
 
 ## Funcionalidades
 
