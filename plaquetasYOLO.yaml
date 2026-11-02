@@ -1,0 +1,13 @@
+# Configuração do conjunto de dados
+path: D:/modeloIA_Plaquet.AI/src  # caminho raiz
+train: output_yolo/train  # caminho relativo para as imagens de treinamento
+val: output_yolo/val  # caminho relativo para as imagens de validação
+
+# Classes
+nc: 1  # Número de classes (apenas plaquetas)
+names: ['Platelets']  # Nome da classe
+
+# Parâmetros de treinamento (opcionais)
+epochs: 30
+batch: 16
+imgsz: 320
